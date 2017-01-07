@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Create a new branch 20170105.
 Creating a new branch is quick and simple.
+ceshi.
